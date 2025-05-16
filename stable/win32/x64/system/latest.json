@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/VSCodium/vscodium/releases/download/1.98.2.25078/VSCodiumSetup-x64-1.98.2.25078.exe",
-  "name": "1.98.2.25078",
-  "version": "c6286962b0f5f2c3ad5e558a439dc3fcfd20b2ac",
-  "productVersion": "1.98.2.25078",
-  "hash": "d2ad98b49e326971cc15606f687425e915bbe382",
-  "timestamp": "1742347577357",
-  "sha256hash": "26a01dfe28f195929db31812be17057f1c622eecbc13d3d01aaf9fd7599f771c"
+  "url": "https://github.com/XunlongCode/opc-build/releases/download/0.0.1.25135/OrangePi.CodeSetup-x64-0.0.1.25135.exe",
+  "name": "0.0.1.25135",
+  "version": "93c9a011da53c7ea1e626da046447afa0b808225",
+  "productVersion": "0.0.1.25135",
+  "hash": "91e37fcda704247f98b933bd31a4e5a332898625",
+  "timestamp": "1747367073220",
+  "sha256hash": "f24366b2530228484b8e55011046f5a9229281fd400f87155976c788757e10dd"
 }
