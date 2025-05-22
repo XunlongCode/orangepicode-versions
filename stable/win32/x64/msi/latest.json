@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/XunlongCode/opc-build/releases/download/0.0.8.25142/OrangePi.Code-x64-0.0.8.25142.msi",
-  "name": "0.0.8.25142",
-  "version": "6def049305fa2351e753b3c43df1763b8aa1c823",
-  "productVersion": "0.0.8.25142",
-  "hash": "71ae8a1b77bef1b804304a520787ddd623285bb8",
-  "timestamp": "1747886282269",
-  "sha256hash": "6943b338bcc27ffe529b4480269231078cc04b4cfa39a7ea66ef8d28f608b5e3"
+  "url": "https://github.com/XunlongCode/opc-build/releases/download/0.0.9.25142/OrangePi.Code-x64-0.0.9.25142.msi",
+  "name": "0.0.9.25142",
+  "version": "2ed0637901ffd3754d0859d2ff5db1d23389ab39",
+  "productVersion": "0.0.9.25142",
+  "hash": "c989b791640e9703dc3cc4d268dfa471ca20846d",
+  "timestamp": "1747895625542",
+  "sha256hash": "18d2cda5b04706104eec0c62211867c99646564ee7600206555207b6387b5a06"
 }
