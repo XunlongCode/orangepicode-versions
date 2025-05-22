@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/XunlongCode/opc-build/releases/download/0.0.9.25142/OrangePi.Code-x64-updates-disabled-0.0.9.25142.msi",
-  "name": "0.0.9.25142",
-  "version": "2ed0637901ffd3754d0859d2ff5db1d23389ab39",
-  "productVersion": "0.0.9.25142",
-  "hash": "e967d7c30b69889971824bc827a687b92beadf55",
-  "timestamp": "1747895625761",
-  "sha256hash": "9df2ad3070bdae0cc19affbf1586469c685ddcd4ed85686ab644e3d05e6d6d38"
+  "url": "https://github.com/XunlongCode/opc-build/releases/download/0.0.10.25142/OrangePi.Code-x64-updates-disabled-0.0.10.25142.msi",
+  "name": "0.0.10.25142",
+  "version": "beee6a614d590eb88d7614f0cf0bdf8a32ef4b18",
+  "productVersion": "0.0.10.25142",
+  "hash": "9ca83abef9e1f0e426f076b2f1fe281c1d17bb3e",
+  "timestamp": "1747918140821",
+  "sha256hash": "58a6665526fd9e714d88922c6c72337d4adaab48b51652e1bc95da9469c10b7d"
 }
