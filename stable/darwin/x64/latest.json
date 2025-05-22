@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/VSCodium/vscodium/releases/download/1.98.2.25078/VSCodium-darwin-x64-1.98.2.25078.zip",
-  "name": "1.98.2.25078",
-  "version": "c6286962b0f5f2c3ad5e558a439dc3fcfd20b2ac",
-  "productVersion": "1.98.2.25078",
-  "hash": "c0f2f04df56142863f33194dad85df0ff8fe9dde",
-  "timestamp": "1742345509087",
-  "sha256hash": "d8c1014a38b2e02b7846b95bb03e998983bb15bde115c427cd9a5ad568cc2976"
+  "url": "https://github.com/XunlongCode/opc-build/releases/download/0.0.10.25142/OrangePi\\.Code-darwin-x64-0.0.10.25142.zip",
+  "name": "0.0.10.25142",
+  "version": "beee6a614d590eb88d7614f0cf0bdf8a32ef4b18",
+  "productVersion": "0.0.10.25142",
+  "hash": "aa2b0b04c7a0d928e088c9cff43292cfd4e8758f",
+  "timestamp": "1747916281156",
+  "sha256hash": "31ed22ef5b779e86dc99da6d415f9a9b6a3287648db949f92d5347dc7992f8ef"
 }
