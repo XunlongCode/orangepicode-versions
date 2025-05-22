@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/XunlongCode/opc-build/releases/download/0.0.7.25140/OrangePi.Code-win32-arm64-0.0.7.25140.zip",
-  "name": "0.0.7.25140",
-  "version": "123269d9f55498adcac94c6b008d7576ff65a645",
-  "productVersion": "0.0.7.25140",
-  "hash": "7322029d52a55f00ad1e2e09f1a753cd31c2caf9",
-  "timestamp": "1747749335246",
-  "sha256hash": "0f8dc515768e0292b9cb17c5d276db24dffb5ed753fe43df3bad2f51fe568584"
+  "url": "https://github.com/XunlongCode/opc-build/releases/download/0.0.8.25142/OrangePi.Code-win32-arm64-0.0.8.25142.zip",
+  "name": "0.0.8.25142",
+  "version": "6def049305fa2351e753b3c43df1763b8aa1c823",
+  "productVersion": "0.0.8.25142",
+  "hash": "82dcf5378d14ec236a427546079f8ac2a53bf2ba",
+  "timestamp": "1747885261099",
+  "sha256hash": "acb06c083504d172e135baf2f7eb27753817c7a981054183d6bad8463c6d5aaa"
 }
