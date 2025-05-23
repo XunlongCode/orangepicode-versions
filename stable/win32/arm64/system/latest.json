@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/XunlongCode/opc-build/releases/download/0.0.10.25142/OrangePi.CodeSetup-arm64-0.0.10.25142.exe",
-  "name": "0.0.10.25142",
-  "version": "beee6a614d590eb88d7614f0cf0bdf8a32ef4b18",
-  "productVersion": "0.0.10.25142",
-  "hash": "da27e4af71dd4d0eb2398747b65a66edb2477104",
-  "timestamp": "1747917412215",
-  "sha256hash": "ae2cf72fbd32ad32b2e32c871df360c66cd180221b6654f0fc52caa6afe5881c"
+  "url": "https://github.com/XunlongCode/opc-build/releases/download/0.0.11.25143/OrangePi.CodeSetup-arm64-0.0.11.25143.exe",
+  "name": "0.0.11.25143",
+  "version": "c69b68016fd05994b50d80078f859e874d33cc62",
+  "productVersion": "0.0.11.25143",
+  "hash": "16ce2d1b6378a063fb2e143d80029067583a5a21",
+  "timestamp": "1747974602543",
+  "sha256hash": "7628b443dfe4c9a2d07704958cd9f88d468f8bd18819f8b3a93efbec42e21b75"
 }
