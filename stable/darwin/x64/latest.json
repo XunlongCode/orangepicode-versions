@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/XunlongCode/opc-build/releases/download/0.0.10.25142/OrangePi\\.Code-darwin-x64-0.0.10.25142.zip",
-  "name": "0.0.10.25142",
-  "version": "beee6a614d590eb88d7614f0cf0bdf8a32ef4b18",
-  "productVersion": "0.0.10.25142",
-  "hash": "aa2b0b04c7a0d928e088c9cff43292cfd4e8758f",
-  "timestamp": "1747916281156",
-  "sha256hash": "31ed22ef5b779e86dc99da6d415f9a9b6a3287648db949f92d5347dc7992f8ef"
+  "url": "https://github.com/XunlongCode/opc-build/releases/download/0.0.11.25143/OrangePi\\.Code-darwin-x64-0.0.11.25143.zip",
+  "name": "0.0.11.25143",
+  "version": "c69b68016fd05994b50d80078f859e874d33cc62",
+  "productVersion": "0.0.11.25143",
+  "hash": "06074baad058a4af47fd37219544548b5e60a780",
+  "timestamp": "1747971777196",
+  "sha256hash": "06472d7b28004cf521fa13c8183622d58ee988e1f34de20c43ec7f6ff6ccd521"
 }
