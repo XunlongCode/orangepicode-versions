@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/XunlongCode/opc-build/releases/download/0.0.12.25146/OrangePi\\.Code-darwin-arm64-0.0.12.25146.zip",
-  "name": "0.0.12.25146",
-  "version": "238c41e9fc51cefa50e58e06eae5ac9adfecbd06",
-  "productVersion": "0.0.12.25146",
-  "hash": "1d41bf19abd45a45bb02b42b9a129e4d78aff9b6",
-  "timestamp": "1748223512807",
-  "sha256hash": "345e6c0ed68832eb85251928fe9d6a4e0051c682c3246415931cfa7dab78d443"
+  "url": "https://github.com/XunlongCode/opc-build/releases/download/0.0.14.25146/OrangePi\\.Code-darwin-arm64-0.0.14.25146.zip",
+  "name": "0.0.14.25146",
+  "version": "13c7353950dbbb5836e2a29388e9bf646c725056",
+  "productVersion": "0.0.14.25146",
+  "hash": "98d33d974055d72da3760076ae6da8f8c0fb2b82",
+  "timestamp": "1748230145034",
+  "sha256hash": "0ef1abfdf8828bed680d65649ef9710b8d027db607f4ddcf9b35be05c2e9f1a6"
 }
