@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/XunlongCode/opc-build/releases/download/0.0.17.25147/OrangePi.CodeUserSetup-x64-0.0.17.25147.exe",
-  "name": "0.0.17.25147",
-  "version": "62245df1d6c8c2b980a4f1150898da107407a788",
-  "productVersion": "0.0.17.25147",
-  "hash": "ce93adf2daa5270218e6ef0126d6294dbec1aa75",
-  "timestamp": "1748329142981",
-  "sha256hash": "0ff7efc4fc287b4c63c8ebe737e58906551cffd9f325c51f4bbbd3fedc809493"
+  "url": "https://github.com/XunlongCode/opc-build/releases/download/0.0.18.25150/OrangePi.CodeUserSetup-x64-0.0.18.25150.exe",
+  "name": "0.0.18.25150",
+  "version": "f719af0d978eddc7bcc17acbad6e03a3fda7e973",
+  "productVersion": "0.0.18.25150",
+  "hash": "500fa4c7b1438af993cb183f4f69a1e69f40085c",
+  "timestamp": "1748595042709",
+  "sha256hash": "d9930364296b5bdb9af97ef67dabf8822e6a36b7a6aaa6bd470f1082b5a511eb"
 }
