@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/XunlongCode/opc-build/releases/download/0.0.18.25150/OrangePi.Code-linux-armhf-0.0.18.25150.tar.gz",
-  "name": "0.0.18.25150",
-  "version": "f719af0d978eddc7bcc17acbad6e03a3fda7e973",
-  "productVersion": "0.0.18.25150",
-  "hash": "2560c785e492e3fbcd287c00fb46c58cb3d1c391",
-  "timestamp": "1748593059983",
-  "sha256hash": "b7e171d1198fd7985e59c3867b30815483a59a5602c0f794fcd01185ac17ba6c"
+  "url": "https://github.com/XunlongCode/opc-build/releases/download/0.0.19.25314/OrangePi.Code-linux-armhf-0.0.19.25314.tar.gz",
+  "name": "0.0.19.25314",
+  "version": "b617780302e0a007177e8c3cda5f8226509f6a83",
+  "productVersion": "0.0.19.25314",
+  "hash": "4059d1d1b5f6a715bd0eb6badf7e1f0f64aa8d82",
+  "timestamp": "1762756531847",
+  "sha256hash": "cec989c82866f98390c334193c8fbacf6f285342adefc584a33253f3c639b963"
 }
