@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/XunlongCode/opc-build/releases/download/0.0.18.25150/OrangePi.Code-linux-arm64-0.0.18.25150.tar.gz",
-  "name": "0.0.18.25150",
-  "version": "f719af0d978eddc7bcc17acbad6e03a3fda7e973",
-  "productVersion": "0.0.18.25150",
-  "hash": "4eb09ae41c28ef751d400a43bd4f8ad101741a5e",
-  "timestamp": "1748593074258",
-  "sha256hash": "b0ac5942801ba5b097d747d65d0fb19b6b0376e4da39e9c0f1fe832221b21e65"
+  "url": "https://github.com/XunlongCode/opc-build/releases/download/0.0.19.25314/OrangePi.Code-linux-arm64-0.0.19.25314.tar.gz",
+  "name": "0.0.19.25314",
+  "version": "b617780302e0a007177e8c3cda5f8226509f6a83",
+  "productVersion": "0.0.19.25314",
+  "hash": "ae0d989dbe268513a8e33032a09e8d612a49a7c8",
+  "timestamp": "1762756534205",
+  "sha256hash": "9803fd71a58d818f19f0c84915453f8d55d207c98fc5f5f943c6955bd7cf1250"
 }
